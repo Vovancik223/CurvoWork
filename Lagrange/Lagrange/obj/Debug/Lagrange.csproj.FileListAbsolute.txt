@@ -1,0 +1,7 @@
+E:\Проекты и материалы\БГУИР\Курсач\Lagrange\Lagrange\bin\Debug\Lagrange.exe.config
+E:\Проекты и материалы\БГУИР\Курсач\Lagrange\Lagrange\bin\Debug\Lagrange.exe
+E:\Проекты и материалы\БГУИР\Курсач\Lagrange\Lagrange\bin\Debug\Lagrange.pdb
+E:\Проекты и материалы\БГУИР\Курсач\Lagrange\Lagrange\obj\Debug\Lagrange.csprojAssemblyReference.cache
+E:\Проекты и материалы\БГУИР\Курсач\Lagrange\Lagrange\obj\Debug\Lagrange.csproj.CoreCompileInputs.cache
+E:\Проекты и материалы\БГУИР\Курсач\Lagrange\Lagrange\obj\Debug\Lagrange.exe
+E:\Проекты и материалы\БГУИР\Курсач\Lagrange\Lagrange\obj\Debug\Lagrange.pdb
